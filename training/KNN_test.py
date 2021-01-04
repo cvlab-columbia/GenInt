@@ -1292,6 +1292,7 @@ class LogisticRegression(torch.nn.Module):
         outputs = self.linear(x)
         return outputs
 
+
 def LogisticRegression_test_objectnet_shuffle(val_loader, model, args, train_list):
     model.eval()
 

@@ -193,7 +193,9 @@ if __name__ == '__main__':
         52: (2, 12, -13, 'bokeh', 'not colorful'), 53: (2, 13, -12, 'sharp color', 'not sharp'),
         55: (2, 15, -12, 'color', 'less color'), 56: (2, 15, -12), 57: (2, 15, -12, 'dawn', ), 58: (2,12, -12),
         59: (2, 12, -10),
-        39: (4, 10, -12, 5, -6, 'blackwhite', 'saturation'), 54: (2, 12, -12, 'purple', 'green')}
+        39: (4, 10, -12, 5, -6, 'blackwhite', 'saturation'), 54: (2, 12, -12, 'purple', 'green'),
+
+    }
 
     # TODO: thinking: If PCA captures the major variation of generator (by random sampling), then the least PCA direction
     # should be the direction that is under-estimated during random sampling, thus larger intervention on those direction

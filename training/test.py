@@ -30,6 +30,7 @@ class Args():
         pass
 
 
+
 def test(checkpoint_path, load_emb, emb_name, use_mlp, arch='resnet152', save_separate=True,
          exclude_nonoverlap=False, batch_size=300, test_dataset=['objectnet'], CM=False):
     args = Args()
