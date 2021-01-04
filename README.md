@@ -23,7 +23,7 @@ Please go to IntervenedGAN folder and follow the instruction in README.md and SE
 ### Generate data for Observational GAN
 Please go to BigGAN folder and follow instruction in README.md
 
-## Training the models (download pretrained models)
+## Training the ImageNet models (download pretrained models)
 Please go to training folder and follow the instructions in README.md
 
 
