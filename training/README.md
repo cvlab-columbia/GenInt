@@ -82,6 +82,6 @@ update the architecture from `-a resnet18` to `-a resnet152`
 With Augmentation:
 We finetune from rotation trained model from scratch:
 For baseline: Train on augmented ImageNet. Model Link:
-For IntGen: We train GenInt from scratch with lambda=0.2 and batchsize 64 with augmentation. Model　Link:
+For IntGen: We train GenInt from scratch with lambda=0.2 and batchsize 64 with augmentation. 
 
 
