@@ -1,4 +1,4 @@
-# Generative interventions for Causal Learning
+# Generative Interventions for Causal Learning
 
 Code from the paper [Generative Interventions for Causal Learning](https://arxiv.org/abs/2012.12265).
 
