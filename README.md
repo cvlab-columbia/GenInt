@@ -6,7 +6,7 @@ If you use this code, please consider citing the paper as:
 ```
 @article{mao2020generative,
       title={Generative Interventions for Causal Learning}, 
-      author={Chengzhi Mao and Amogh Gupta and Augustine Cha and Hao Wang and Junfeng Yang and Carl Vondrick},
+      author={Chengzhi Mao and Augustine Cha and Amogh Gupta and Hao Wang and Junfeng Yang and Carl Vondrick},
       year={2020},
       eprint={2012.12265},
       journal={arXiv},      
