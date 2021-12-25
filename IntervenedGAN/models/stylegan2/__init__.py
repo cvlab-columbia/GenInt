@@ -9,6 +9,7 @@ current_path = os.getcwd()
 
 module_path = Path(__file__).parent / 'stylegan2-pytorch'
 sys.path.append(str(module_path.resolve()))
+os.makedirs(module_path)
 os.chdir(module_path)
 
 
